@@ -9,6 +9,9 @@ public class Prefix {
 		}
 		return instance;
 	}
+	/*
+	 * Programme capable de faire ca
+	 */
 
 	private Prefix() {
 		// TODO Auto-generated constructor stub
